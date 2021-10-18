@@ -1,0 +1,3 @@
+C:/Users/Yelizaveta/CLionProjects/lab_01homework/simpleCalc/cmake-build-debug/CMakeFiles/lab_01homework.dir
+C:/Users/Yelizaveta/CLionProjects/lab_01homework/simpleCalc/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Yelizaveta/CLionProjects/lab_01homework/simpleCalc/cmake-build-debug/CMakeFiles/rebuild_cache.dir

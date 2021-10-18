@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Yelizaveta/CLionProjects/lab_01homework/simpleCalc/src/main.cpp
+iostream
+-
+sstream
+-
+math.h
+C:/Users/Yelizaveta/CLionProjects/lab_01homework/simpleCalc/src/math.h
+
